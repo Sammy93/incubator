@@ -4,5 +4,6 @@ One of the most used instruments in a microbiology laboratory is the microbiolog
 # Hardware
 Hardware design goals 
 Mechanical Design
-The incubator is designed in Autodesk Fusion 360 which is free to use by hobbyist users, academics and small startups. The design is completely parametric and one can designed in a parametric open-source  CAD  software such as FreeCAD or  OpenSCAD. The user will be able to select parameters related to the incubator dimensions. Optional features would include add ons such as microscope slide holder or petri dish holder. An image of a very basic prototype designed by WaterScope in shown in  Figure 1. The incubator has to be designed  in such way that it allows fabrication by a laser cutter  and easy assembly. At the moment, acrylic is the prefered material however, if possible, other temperature resistant materials such as polycarbonate will be investigated. 
+The incubator is designed in Autodesk Fusion 360 which is free to use by hobbyist users, academics and small startups. The design is completely parametric and one can designed in a parametric open-source  CAD  software such as FreeCAD or  OpenSCAD. The user is able to select parameters related to the incubator dimensions. The incubator has is designed  in such way that it allows fabrication by a laser cutter and easy assembly. Currently, the incubator is tested only using acrylic however significant performance improvement can be achieved if styrofoam is used instead. 
+
 
