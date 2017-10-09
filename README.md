@@ -7,4 +7,4 @@ Mechanical Design
 The incubator is designed in Autodesk Fusion 360 which is free to use by hobbyist users, academics and small startups. The user is able to select parameters related to the incubator dimensions. The incubator has is designed  in such way that it allows fabrication by a laser cutter and easy assembly. Currently, the incubator is tested only using acrylic however significant performance improvement can be achieved if styrofoam is used instead. 
 
 
-[[https://github.com/Sammy93/incubator/blob/master/components.png|alt=components]]
+![components](https://github.com/Sammy93/incubator/blob/master/components.png)
